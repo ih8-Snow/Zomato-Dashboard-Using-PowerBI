@@ -143,4 +143,3 @@ Optimize Delivery Routes: Analyze delivery data to optimize routes and reduce de
 Expand into New Markets: Identify cities with high potential for growth and explore expansion opportunities.
 
 ## Overall, this Zomato sales dashboard empowers data-driven decision making by providing insights into sales performance, customer behavior, and areas for improvement. By leveraging these insights, Zomato can enhance customer satisfaction, optimize operations, and drive business growth.
-Overall, this Zomato sales dashboard empowers data-driven decision making by providing insights into sales performance, customer behavior, and areas for improvement. By leveraging these insights, Zomato can enhance customer satisfaction, optimize operations, and drive business growth.
