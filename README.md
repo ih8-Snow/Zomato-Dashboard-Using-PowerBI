@@ -1,4 +1,4 @@
-# Zomato Sales Analysis and customer Segmentation using Pwoer BI
+# Zomato Sales Analysis and customer Segmentation using Power BI
 ## Dasboard Link= https://app.powerbi.com/groups/me/reports/1d387612-2a09-487c-8891-b6294e3b8493/7e8594d19dba996e4141?experience=power-bi
 
 # Problem Statement
