@@ -1,6 +1,6 @@
 # Zomato Sales Analysis and customer Segmentation using Power BI
 
-### _Dasboard = checkout PDF and Power BI file in above setion_
+### _Dasboard = checkout PDF and Power BI file in above section_
 
 # Problem Statement
 To provide Zomato with a comprehensive dashboard that offers insights into customer satisfaction, sales performance, and operational efficiency. This dashboard will enable Zomato to identify areas for improvement, optimize marketing strategies, and enhance overall customer experience.
